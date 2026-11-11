@@ -1,0 +1,227 @@
+first step
+
+For now, focus ONLY on frontend UI design.
+
+Create the basic application structure with the following pages:
+
+1. Dashboard
+2. Search 
+3. History
+4. Back-Up
+5. about 
+7. Settings
+8. User Profile
+
+Design a clean, modern SaaS application.
+
+Requirements:
+- Create a left sidebar navigation.
+- Create a top navigation bar.
+- Add a main content area.
+- Use reusable UI components.
+- Use responsive layouts.
+- Add placeholder content wherever necessary.
+- Make the design easy to customize.
+
+Do not implement backend or API functionality.
+
+
+Second step
+Design a professional sidebar and navigation system.
+
+Sidebar should include:
+
+- Application logo and name.
+- Dashboard.
+- Search
+- History
+- Back-Up
+- About
+- Settings.
+
+At the bottom:
+- User profile.
+- Help and Support.
+- Logout.
+
+Top navigation:
+- Page title.
+- Search bar.
+- Notification icon.
+- Theme toggle.
+- User avatar.
+
+Design requirements:
+- Modern minimal interface.
+- Beautiful icons.
+- Smooth hover effects.
+- Active navigation highlighting.
+- Collapsible sidebar.
+- Consistent spacing and typography.
+
+Make navigation visually polished and responsive.
+
+Third Step
+Design the main dashboard page.
+
+Include these sections:
+
+1. Welcome message.
+2. create Get start button 
+3. crate a right side bar (show title command in next line show this point . 1)create a file , 2) update a file ,3) delete file , 4)fetching ,5) summarize 6) shut down 7)etc. 
+4. in middle Main conent area 
+
+
+Visual requirements:
+- Attractive card-based layout.
+- Beautiful icons and illustrations.
+- Soft shadows.
+- Rounded corners.
+- Clean typography.
+- Good use of white space.
+- Responsive design.
+
+Use realistic sample data only for UI previews.
+Fourth Step
+Design the history page .
+include these sections.
+in main content area show the history of user like the command they gave .
+suggestion :  build like this suggestion
+
++------------------------------------------------------------------------------------+
+
+|  [🔍 Search history, prompts, or files...]     [Filter: 📝 Code] [Filter: 📊 Tables] |
++------------------------------------------------------------------------------------+
+
+|  TODAY                                    |  QUICK PREVIEW PANEL                   |
+|  +-------------------------------------+  |                                        |
+|  | ✨ Q3 Revenue Dashboard Update       |  |  User Prompt: "Summarize Q3 data..."   |
+|  |  "Here is the breakdown of..."     |  |                                        |
+|  |  [Charts] [Financial Agent]  [...]  |  |  AI Summary:                           |
+|  +-------------------------------------+  |  • Revenue increased by 14% MoM.       |
+|                                           |  • Marketing spend exceeded cap.       |
+|  YESTERDAY                                |  • Churn dropped to an all-time low.   |
+|  +-------------------------------------+  |                                        |
+|  | 📝 Python Data Cleansing Script     |  |  [📊 Open Full Active Chat]             |
+|  |  "Can you write a script to..."     |  |                                        |
+|  +-------------------------------------+  |  [📥 Export Markdown]  [⭐ Pin Chat]   |
++-------------------------------------------+----------------------------------------+
+Fifth Step
+create a Back-Up page.
+include this section 
+crate a button for Back-up 
+show a label where you can write you can restore only one month of cammond 
+suggestion : build like this suggestion 
++------------------------------------------------------------------------------------+
+
+|  ⚙️ Backup & Recovery Settings                                                     |
++------------------------------------------------------------------------------------+
+
+|  CURRENT STATUS                                                                    |
+|  🟢 System Fully Backed Up                                                         |
+|  Last snapshot: Today, 10:14 AM | Size: 14.2 MB | Target: Google Drive             |
+|                                                                                    |
+|  [⚡ Create Manual Backup]               [📅 Schedule: Daily Dropdown v]           |
++------------------------------------------------------------------------------------+
+
+|  DATA SELECTOR                                 | STORAGE TARGET                    |
+|  [x] Chat & Prompt Logs                        | (•) App Secure Cloud (2.1GB Used) |
+|  [x] Uploaded Knowledge Bases                  | ( ) Connect AWS S3 Bucket         |
+|  [ ] Custom Agent System Prompts               | [📥 Download Local JSON File]     |
++------------------------------------------------------------------------------------+
+
+|  PAST SNAPSHOTS (RESTORE POINTS)                                                   |
+|  • 2026-11-10 10:14 AM   [Auto]   (💬 History, 📂 Files)     [🔄 Restore] [🗑️ Delete] |
+|  • 2026-11-09 08:00 AM   [Manual] (💬 History)               [🔄 Restore] [🗑️ Delete] |
++------------------------------------------------------------------------------------+
+
+Sixth Step
+Create a modern application Settings page.
+
+Divide the settings into sections:
+
+1. General Settings.
+2. Language Preferences.
+3. Account Settings.
+4. Privacy Settings.
+
+Include:
+- Light and dark theme selection.
+- Language dropdown.
+- Default export format.
+- Profile information.
+- Notification preferences.
+- Storage preferences.
+
+Use switches, dropdowns, buttons, and clean setting cards.
+
+Focus only on UI design and demo interactions.
+
+Seventh Step
+Now review and polish the entire application's frontend UI.
+
+Requirements:
+
+1. Maintain consistent design across all pages.
+2. Use a unified color palette.
+3. Maintain consistent spacing.
+4. Improve typography.
+5. Make all icons visually consistent.
+6. Add subtle animations.
+7. Add beautiful hover effects.
+8. Improve responsive layouts.
+9. Create attractive loading skeletons.
+10. Create empty states.
+11. Create confirmation dialogs.
+12. Create toast notification designs.
+13. Ensure all navigation links work.
+14. Ensure all UI buttons have appropriate demo interactions.
+
+Important:
+Do not change the overall application structure.
+Do not add backend functionality.
+Do not integrate APIs.
+Do not remove previously created pages.
+
+The final result should look like a premium, production-quality SaaS application.
+
+Eight Step 
+Recommended visual direction
+Use this design system consistently throughout the application.
+Color palette
+
+Background#FFFFFF
+
+
+Surface#F4F5F7
+
+
+Primary#2563EB
+
+
+Text#111827
+
+
+
+Design characteristics
+- Style: Minimal, modern SaaS.
+- Typography: Inter or similar.
+- Buttons: Rounded, clean.
+- Cards: Soft shadows and subtle borders.
+- Icons: Lucide-style icons.
+- Layout: Spacious and organized.
+- Animation: Smooth and subtle.
+- Theme: Light mode with optional dark mode.
+
+How to use these prompts
+1. Copy Step 1 and generate your initial application.
+2. Once completed, give Step 2.
+3. Continue in sequence.
+4. Check the design after every step.
+5. If you dislike a section, modify that section before proceeding.
+
+Ninth Step
+suggestion 
+do not hallucinate 
+the main content area will stay there only whenever we click on left side barr the page then the content of main area will change 
+do not add any other functionality on this 

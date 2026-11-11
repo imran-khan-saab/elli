@@ -1,0 +1,6 @@
+{
+  "name": "Ellie The Presnal Desktop Ai Assistant",
+  "description": "A clean, modern SaaS desktop AI assistant interface with dashboard, commands, history, backup recovery, settings, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
